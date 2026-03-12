@@ -1,6 +1,6 @@
 # 🐍 Lista de Exercícios em Python (Lógica de Programação)
 
-Este repositório contém uma série de exercícios essenciais e introdutórios desenvolvidos em Python, focados em algoritmos, manipulação de variáveis, cálculos matemáticos e interfaces gráficas simples.
+Este repositório contém uma série de exercícios essenciais e introdutórios desenvolvidos em Python, focados em algoritmos, manipulação de variáveis, cálculos matemáticos e interfaces gráficas simples que estudei durante o 1º semestre da graduação em ADS.
 
 ## O que está disponível neste repositório?
 
