@@ -11,6 +11,7 @@ A lista aborda conceitos importantes para quem está iniciando na programação:
 3.  **Operações Matemáticas:** Cálculo de quadrado, cubo e raiz quadrada de um número dado pelo usuário.
 4.  **Cálculo de Idade:** Projeção de idade atual e estimativa para o ano de 2050.
 5.  **Folha de Pagamento:** Cálculo de salário líquido com gratificações (10%) e impostos (4%).
+6. **O Maior de Três:** Identificação do maior valor entre três números inteiros utilizando uma fórmula matemática que envolve valor absoluto (abs), sem o uso direto de estruturas condicionais (como if/else).
 
 ## Tecnologias utilizadas
 
