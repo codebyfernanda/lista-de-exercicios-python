@@ -2,8 +2,6 @@
 
 Este repositório contém uma série de exercícios essenciais e introdutórios desenvolvidos em Python, focados em algoritmos, manipulação de variáveis, cálculos matemáticos e interfaces gráficas simples.
 
----
-
 ## O que está disponível neste repositório?
 
 A lista aborda conceitos importantes para quem está iniciando na programação:
