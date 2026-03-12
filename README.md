@@ -12,7 +12,7 @@ A lista aborda conceitos importantes para quem está iniciando na programação:
 4. **Cálculo de Idade:** Projeção de idade atual e estimativa para o ano de 2050.
 5. **Folha de Pagamento:** Cálculo de salário líquido com gratificações (10%) e impostos (4%).
 6. **O Maior de Três:** Identificação do maior valor entre três números inteiros utilizando uma fórmula matemática que envolve valor absoluto (abs), sem o uso direto de estruturas condicionais (como if/else).
-7. **Gasto de Combustível:** Cálculo da quantidade de litros gastos em uma viagem com base no tempo e velocidade média, considerando um consumo fixo de 12 km/l e utilizando formatação de precisão numérica (.3f).
+7. **Gasto de Combustível:** Cálculo da quantidade de litros gastos em uma viagem com base no tempo e velocidade média, considerando um consumo fixo de 12 km/L e utilizando formatação de precisão numérica (.3f).
 
 ## Tecnologias utilizadas
 
