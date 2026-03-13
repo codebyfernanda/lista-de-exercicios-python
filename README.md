@@ -13,6 +13,8 @@ A lista aborda conceitos importantes para quem está iniciando na programação:
 5. **Folha de Pagamento:** Cálculo de salário líquido com gratificações (10%) e impostos (4%).
 6. **O Maior de Três:** Identificação do maior valor entre três números inteiros utilizando uma fórmula matemática que envolve valor absoluto (abs), sem o uso direto de estruturas condicionais (como if/else).
 7. **Gasto de Combustível:** Cálculo da quantidade de litros gastos em uma viagem com base no tempo e velocidade média, considerando um consumo fixo de 12 km/L e utilizando formatação de precisão numérica (.3f).
+8. **Idade em Dias:** Conversão de Tempo com decomposição de um valor inteiro de dias em anos, meses e dias, utilizando operadores de divisão inteira (//) e resto (%). Para fins didáticos, foi utilizado anos de 365 dias e meses de 30 dias.
+9. **[EXTRA] Contador de Dias de Vida (Tempo Real):** Cálculo exato de dias vividos utilizando a data de nascimento do usuário comparada à data atual do sistema. Diferente do exercício anterior, este utiliza a biblioteca nativa datetime para considerar o calendário real (com anos bissextos e meses com 28, 29, 30 e 31 dias).
 
 ## Tecnologias utilizadas
 
